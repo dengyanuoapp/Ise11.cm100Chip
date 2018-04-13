@@ -10,3 +10,4 @@
 [0-9a-z].bak
 /bkOBJsDIR/
 /bkZIP/
+/_vim/cscope.in[0-9]
