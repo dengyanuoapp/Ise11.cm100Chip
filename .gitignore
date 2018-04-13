@@ -1,0 +1,12 @@
+/out/
+/tmp/
+
+/date.now.txt
+/cscope.out
+/tags
+/_vim/cscope.files
+[0-9a-z].txt
+[0-9a-z].diff
+[0-9a-z].bak
+/bkOBJsDIR/
+/bkZIP/
