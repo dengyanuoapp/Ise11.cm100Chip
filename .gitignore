@@ -32,3 +32,5 @@ bkCDS/
 /mcs.another.mcs
 /tt21tmp.bak[1234567890]/
 /tt21tmp/
+svf.FPGA.flash.svf
+svf.FPGA.run.svf
